@@ -16,3 +16,11 @@ p {
   color: #666;
 }
 
+.container-personnage {
+  display: flex;
+  align-items: center;
+}
+
+.character-details {
+  margin-left: 20px;
+}
